@@ -1,0 +1,27 @@
+
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Ambientes virtuais
+.lab-dio/
+.venv/
+venv/
+env/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+
+# Google ADK
+.adk/
+
+# Editores
+.vscode/
+.idea/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+.pytest_cache/
