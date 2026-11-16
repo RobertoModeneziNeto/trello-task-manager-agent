@@ -192,6 +192,6 @@ As imagens abaixo mostram o agente em funcionamento, integrado ao Google ADK Web
 ![Tarefas em outro quadro](docs/tarefas-em-outro-quadro.png)
 
 
-## Autor
+## Autor Roberto Modenezi Neto
 
 Desenvolvido como projeto prático de estudo e aplicação de conceitos de Inteligência Artificial, agentes inteligentes e integração de APIs.
